@@ -53,6 +53,7 @@ mixup= 0.1  # image mixup (probability)
 
 <br>
 
+
 ### 아쉬운 점
 - 대회가 끝난 뒤, Detection에서도 Model Ensemble을 할 수 있는 코드 발견함.<br>
   - MAILAB-Yonsei: *[capsule_endoscopy_detection](https://github.com/MAILAB-Yonsei/capsule_endoscopy_detection)*
