@@ -8,6 +8,16 @@
 
 <br><br>
 
+### File 설명
+
+- <b>dataset.py</b>: 주어진 dataset을 yolo에 쓰일 dataset으로 변환하는 Code.
+
+- <b>main.py</b>: yolo 이용해 detection과 evaluation하는 Code.
+
+
+
+<br>
+
 ### Yolov8 사용
 - Baseline에서 제안된 Faster-RCNN 모델이 아닌 코드 공유 커뮤니티에 제시된 Yolov8로 detection. <br>
   - *코드 공유: [yolo8 코드입니다](https://dacon.io/competitions/official/236107/codeshare/8414?page=1&dtype=recent)*
