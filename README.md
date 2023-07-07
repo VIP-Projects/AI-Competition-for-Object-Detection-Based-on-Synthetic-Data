@@ -1,6 +1,6 @@
 # DACON: 합성데이터 기반 객체 탐지 AI 경진대회
 
-<img alt="Html" src ="https://img.shields.io/badge/dacon Final rank-Top %25-lightblue?style=for-the-badge"/>
+<img alt="Html" src ="https://img.shields.io/badge/dacon Final rank-Top 4%25-lightblue?style=for-the-badge"/>
 
 #### 합성 데이터를 활용한 자동차 탐지 AI 모델 개발 (23.05.08  - 23.07.07) - 김준용, 길다영
 ##### 📊 [PUBLIC] 29/859 (상위 4%) 점수: 0.95437
