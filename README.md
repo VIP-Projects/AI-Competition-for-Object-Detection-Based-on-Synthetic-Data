@@ -21,6 +21,7 @@
 ### Yolov8 사용
 - Baseline에서 제안된 Faster-RCNN 모델이 아닌 코드 공유 커뮤니티에 제시된 Yolov8로 detection. <br>
   - *코드 공유: [yolo8 코드입니다](https://dacon.io/competitions/official/236107/codeshare/8414?page=1&dtype=recent)*
+  - *코드 공유: [YOLOv8 커스텀 데이터 학습.](https://github.com/neowizard2018/neowizard/blob/master/DeepLearningProject/YOLOv8_Object_Detection_Roboflow_Aquarium_Data.ipynb)*
 
 - Our experiments에서는 다음과 같이 parameter를 setting할 때 가장 성능이 좋았음.
 
